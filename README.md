@@ -4,6 +4,14 @@ Projek ini menganalisis data transaksi toko ritel online berbasis di Inggris (UK
 
 ---
 
+### Presentation Deck
+
+![Cover Slide](slides_1.jpg)
+
+> 📄 **Full Presentation:** https://drive.google.com/file/d/1ycx3VQdba9L5s_iGtKy45Ef1MkcMAP7n/view?usp=sharing
+
+---
+
 ### 📌 Ringkasan Insight
 
 1. **Puncak Musiman (November 2011)**  
@@ -39,10 +47,4 @@ Projek ini menganalisis data transaksi toko ritel online berbasis di Inggris (UK
 - `sales.ipynb` — Notebook analisis data lengkap (pembersihan data, *feature engineering*, eksplorasi data, dan visualisasi).
 - `ecommerce.csv` — Dataset transaksi ritel online.
 
----
 
-### Presentation Deck
-
-![Cover Slide](slides_1.jpg)
-
-> 📄 **Full Presentation:** https://drive.google.com/file/d/1ycx3VQdba9L5s_iGtKy45Ef1MkcMAP7n/view?usp=sharing
